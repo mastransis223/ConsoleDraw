@@ -2,7 +2,7 @@
 //
 
 /*
-	>Description: Console drawing test using printf and ANSI Escape sequence
+	>Description: Console drawing test using console api: https://docs.microsoft.com/en-us/windows/console/console-functions
 	>Summary:
 		Flicking: a little
 		Speed   : Fast
