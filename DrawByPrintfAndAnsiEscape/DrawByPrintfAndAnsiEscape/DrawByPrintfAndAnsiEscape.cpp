@@ -118,7 +118,7 @@ void update(void){
 	}
 
 	/* Each 500mS, blink _movableObject */
-	else if (timeCnt % 50 == 0){
+	if (timeCnt % 50 == 0){
 		_movableObject.c = (char)'#';
 		if (timeCnt % 100 == 0)
 			_movableObject.c = (char)'.';
