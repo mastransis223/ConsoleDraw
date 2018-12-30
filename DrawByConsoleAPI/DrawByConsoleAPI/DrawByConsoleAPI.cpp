@@ -4,7 +4,7 @@
 /*
 	>Description: Console drawing test using printf and ANSI Escape sequence
 	>Summary:
-		Flicking: None
+		Flicking: a little
 		Speed   : Fast
 	>Note:	- Set console buffer size to 150x80 (Console --> Propertice --> Layout --> Screen buffer size)
 			- turn-off unikey
